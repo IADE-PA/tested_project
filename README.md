@@ -36,3 +36,9 @@ Os testes unitários são implementados com recurso ao módulo Unity Test, dispo
 Para compilar e executar os testes, basta executar o comando `make test` na linha de comandos. O resultado da execução dos testes é apresentado no terminal.
 
 Para também produzir o relatório de cobertura de código, execute o comando `make cov` na linha de comandos.
+
+### Ação de testes no GitHub
+
+A ação de testes está configurada para correr sempre que é feito um *push* para o repositório. O resultado da execução dos testes é apresentado no *badge* no início deste ficheiro.
+
+Também é possível aceder ao resultado da execução dos testes na aba [Actions](https://github.com/IADE-PA/tested_project/actions) do repositório.
