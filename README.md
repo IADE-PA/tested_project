@@ -13,6 +13,9 @@ Os testes unitários são implementados com recurso ao módulo Unity Test, dispo
 
 ``` plaintext
 .
+├── .github                     // diretório com configurações do GitHub
+│   └── workflows               // diretório com configurações do GitHub Actions
+│       └── run_tests.yml       // ficheiro de configuração da ação de testes
 ├── src
 │   ├── my_math.h               // cabeçalho do módulo a testar
 │   ├── my_math.c               // implementação do módulo a testar
