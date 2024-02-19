@@ -14,7 +14,8 @@ Os testes unitários são implementados com recurso ao módulo Unity Test, dispo
 .
 ├── src
 │   ├── my_math.h               // cabeçalho do módulo a testar
-│   └── my_math.c               // implementação do módulo a testar
+│   ├── my_math.c               // implementação do módulo a testar
+│   └── tester.c                // programa de testes sem Unity Test
 ├── test
 │   ├── test_my_math.c          // testes unitários sobre o módulo my_math
 │   ├── unity/unity.h           // cabeçalho do módulo Unity Test
