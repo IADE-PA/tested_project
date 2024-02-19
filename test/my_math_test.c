@@ -12,7 +12,7 @@ void test_square_root(void) {
 }
 
 void test_gcd() {
-    TEST_ASSERT_EQUAL(4, gcd(12, 9));
+    TEST_ASSERT_EQUAL(3, gcd(12, 9));
 }
 
 int main(void) {
