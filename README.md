@@ -28,3 +28,5 @@ Os testes unitários são implementados com recurso ao módulo Unity Test, dispo
 ### Compilação e execução
 
 Para compilar e executar os testes, basta executar o comando `make test` na linha de comandos. O resultado da execução dos testes é apresentado no terminal.
+
+Para também produzir o relatório de cobertura de código, execute o comando `make cov` na linha de comandos.
