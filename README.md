@@ -1,4 +1,5 @@
 ![example workflow](https://github.com/IADE-PA/tested_project/actions/workflows/run_tests.yml/badge.svg)
+
 # [Programação e Algoritmos](https://mycampus.pt/courses/) - [IADE](https://www.iade.europeia.pt/) <!-- omit in toc -->
 
 ## Exemplo de aplicação de testes unitários
